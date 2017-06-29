@@ -17,18 +17,23 @@ description du projet ...
 
 # L'inscription en ligne #
 
-description ...
+Site Web permettant à un joueur de s'inscrire en ligne.
+
+![acteurFluxInscription.png](https://github.com/stanislasveronical/sioCrawler/blob/master/images/acteurFluxInscription.png)
+
 
 # Sio crawler le jeu #
 
 Le joueur possédera les fonctionnalités suivantes.
 
-![acteurFluxInscription.png](https://github.com/stanislasveronical/sioCrawler/blob/master/images/acteurFluxInscription.PNG)
+![useCasePersonnage.png](https://github.com/images/useCasePersonnage.png)
 
 Les classes développées.
 
-
+![diagrammeClassePersonnage.png](https://github.com/images/diagrammeClassePersonnage.png)
 
 # Sauvegarde du contexte #
 
 La sauvegarde du contexte se fera dans la base de données.
+
+![mcdSauvegarde.png](https://github.com/images/mcdSauvegarde.png)
