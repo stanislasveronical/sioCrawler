@@ -9,10 +9,10 @@ description du projet ...
 1. L'inscription en ligne
 2. La sauvegarde du personnage et du contenu du jeu
 
-|	développement	  |	language	|
-|---------------------|------------:|
-|inscription en ligne | php, MySql  |                   
-|sio crawler le jeu   |  C#         | 
+|	développement	  |	language	| technique de programmation |
+|---------------------|:-----------:|---------------------------:|
+|inscription en ligne | php, MySql  |     développement          |    
+|sio crawler le jeu   |  C#         | programmation objet        |
 
 
 ## L'inscription en ligne ##
