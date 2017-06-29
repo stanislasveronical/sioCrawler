@@ -23,7 +23,7 @@ description ...
 
 Le joueur possédera les fonctionnalités suivantes.
 
-![acteurFluxInscription.PNG](https://github.com/acteurFluxInscription.PNG)
+![acteurFluxInscription.PNG](https://github.com/stanislasveronical/sioCrawler/blob/master/acteurFluxInscription.PNG)
 
 Les classes développées.
 
