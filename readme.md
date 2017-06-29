@@ -19,7 +19,7 @@ description du projet ...
 
 Site Web permettant à un joueur de s'inscrire en ligne.
 
-![acteurFluxInscription.png](https://github.com/stanislasveronical/sioCrawler/blob/master/images/acteurFluxInscription.png)
+![acteurFluxInscription.PNG](https://github.com/stanislasveronical/sioCrawler/blob/master/images/acteurFluxInscription.PNG)
 
 
 # Sio crawler le jeu #
