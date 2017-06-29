@@ -15,14 +15,14 @@ description du projet ...
 |sio crawler le jeu   |  C#         | 
 
 
-# L'inscription en ligne #
+## L'inscription en ligne ##
 
 Site Web permettant à un joueur de s'inscrire en ligne.
 
 ![acteurFluxInscription.PNG](https://github.com/stanislasveronical/sioCrawler/blob/master/images/acteurFluxInscription.PNG)
 
 
-# Sio crawler le jeu #
+## Sio crawler le jeu ##
 
 Le joueur possédera les fonctionnalités suivantes.
 
@@ -32,7 +32,7 @@ Les classes développées.
 
 ![diagrammeClassePersonnage.PNG](https://github.com/stanislasveronical/sioCrawler/blob/master/images/diagrammeClassePersonnage.PNG)
 
-# Sauvegarde du contexte #
+## Sauvegarde du contexte ##
 
 La sauvegarde du contexte se fera dans la base de données.
 
