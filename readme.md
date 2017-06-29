@@ -11,8 +11,7 @@ description du projet ...
 
 |	développement	  |	language	|
 |---------------------|------------:|
-|inscription en ligne | php, MySql  |
-|---------------------|------------:|                    
+|inscription en ligne | php, MySql  |                   
 |sio crawler le jeu   |  C#         | 
 
 
@@ -22,9 +21,13 @@ description ...
 
 # Sio crawler le jeu #
 
-![acteurFluxInscription.PNG](https://github.com/images/acteurFluxInscription.PNG)
+Le joueur possédera les fonctionnalités suivantes.
 
+![acteurFluxInscription.PNG](https://github.com/acteurFluxInscription.PNG)
 
+Les classes développées.
 
 
 # Sauvegarde du contexte #
+
+La sauvegarde du contexte se fera dans la base de données.
