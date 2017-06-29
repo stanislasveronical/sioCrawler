@@ -6,4 +6,8 @@ class Personnage:Heros{
 	public void Deplacer(Direction direction){
 		
 	}
+	
+	public Lieu:Regarder(Direction direction, int distance){
+		
+	}
 }
