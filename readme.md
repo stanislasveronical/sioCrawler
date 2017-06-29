@@ -26,14 +26,14 @@ Site Web permettant à un joueur de s'inscrire en ligne.
 
 Le joueur possédera les fonctionnalités suivantes.
 
-![useCasePersonnage.png](https://github.com/images/useCasePersonnage.png)
+![useCasePersonnage.PNG](https://github.com/stanislasveronical/sioCrawler/blob/master/images/useCasePersonnage.PNG)
 
 Les classes développées.
 
-![diagrammeClassePersonnage.png](https://github.com/images/diagrammeClassePersonnage.png)
+![diagrammeClassePersonnage.PNG](https://github.com/stanislasveronical/sioCrawler/blob/master/images/diagrammeClassePersonnage.PNG)
 
 # Sauvegarde du contexte #
 
 La sauvegarde du contexte se fera dans la base de données.
 
-![mcdSauvegarde.png](https://github.com/images/mcdSauvegarde.png)
+![mcdSauvegarde.PNG](https://github.com/stanislasveronical/sioCrawler/blob/master/images/mcdSauvegarde.PNG)
